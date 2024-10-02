@@ -1,0 +1,5 @@
+controllers:
+    resource:
+        path: ../con/Downloads/bladee_working_on_dying_320_mp3/
+        namespace: Yoomtah\Controller
+    type: attribute
