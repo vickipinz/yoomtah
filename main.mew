@@ -1,0 +1,31 @@
+[=mew [<< mew mewmewmewmewmew ]]
+[=mewmew [** [## [<< mewmew mewmew] mewmewmew ] mewmew ]]
+[=mewmewmew [^ ~mewmew [<< mewmewmew mewmewmew ]]]
+[=mewmewmewmew [+ [<< mewmewmew mewmew] ~mewmewmew]]
+[=mewmewmewmewmew [## ~mewmewmewmew mewmew]]
+
+[:: ~mew // spc
+	~mewmewmew // a
+	[+ mew ~mewmewmew] //b
+	[+ [<< mewmewmew mew] ~mewmewmew] // g
+	[+ [<< mewmewmewmew mew] ~mewmewmew] // i
+	[- ~mewmewmewmew mew] // l
+	~mewmewmewmew // m
+	[- ~mewmewmewmewmew mew] // n
+	~mewmewmewmewmew // o
+	[+ ~mewmewmewmewmew mew] // p
+	[+ ~mewmewmewmewmew mewmewmew] // r
+	[+ ~mewmewmewmewmew mewmewmewmew] // s
+	[+ ~mewmewmewmewmew mewmewmewmewmew] // t
+	[+ ~mewmewmewmewmew mewmewmewmewmewmew] // u
+	[## [>> ~mewmewmewmewmew mew] [<< mew mewmewmewmewmewmew]] // w
+	~mewmew // y
+]
+
+[::: ~mewmewmewmew ~mewmew ~mew
+   ~mewmewmewmew ~mewmewmew [- ~mewmewmewmewmew mew] [+ [<< mewmewmew mew] ~mewmewmew] ~mewmewmewmewmew ~mew
+	[+ [<< mewmewmewmew mew] ~mewmewmew] [+ ~mewmewmewmewmew mewmewmewmew] ~mew
+	[+ ~mewmewmewmewmew mewmewmewmewmew] ~mewmewmewmewmew ~mew
+	[+ mew ~mewmewmew] [- ~mewmewmewmew mew] ~mewmewmewmewmew [## [>> ~mewmewmewmewmew mew] [<< mew mewmewmewmewmewmew]] ~mew
+	[+ ~mewmewmewmewmew mewmewmewmewmewmew] [+ ~mewmewmewmewmew mew]
+]
