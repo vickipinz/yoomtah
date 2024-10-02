@@ -1,0 +1,26 @@
+* THIS WAS HELL TO FIGURE OUT
+DO ,1 <- #22
+PLEASE DO ,1 SUB #1 <- #74
+DO ,1 SUB #2 <- #24
+DO ,1 SUB #3 <- #154
+DO ,1 SUB #4 <- #78
+DO ,1 SUB #5 <- #48
+DO ,1 SUB #6 <- #16
+DO ,1 SUB #7 <- #144
+PLEASE DO ,1 SUB #8 <- #240
+DO ,1 SUB #9 <- #242
+DO ,1 SUB #10 <- #110
+DO ,1 SUB #11 <- #200
+PLEASE DO ,1 SUB #12 <- #202
+DO ,1 SUB #13 <- #214
+DO ,1 SUB #14 <- #56
+DO ,1 SUB #15 <- #242
+DO ,1 SUB #16 <- #190
+DO ,1 SUB #17 <- #16
+DO ,1 SUB #18 <- #64
+DO ,1 SUB #19 <- #8
+PLEASE DO ,1 SUB #20 <- #234
+DO ,1 SUB #21 <- #86
+DO ,1 SUB #22 <- #160
+PLEASE READ OUT ,1
+PLEASE GIVE UP
