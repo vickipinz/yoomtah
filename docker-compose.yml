@@ -1,0 +1,19 @@
+services:
+  go:
+    container_name: "yoomtah-go"
+    build:
+      context: .
+      target: main-go
+      dockerfile: main.dockerfile
+  php:
+    container_name: "yoomtah-php"
+    build:
+      context: .
+      target: main-php
+      dockerfile: main.dockerfile
+  node:
+    container_name: "yoomtah-node"
+    build:
+      context: .
+      target: main-node
+      dockerfile: main.dockerfile
